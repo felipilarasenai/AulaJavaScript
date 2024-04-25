@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    width: 100%;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(80deg, #ffe53bd8, #ff2525da);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 15px;
+    text-transform:initial;
+    font-size: 33px;
+}
+
+img{
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+h1{
+    color:rgb(38, 0, 255);
+}
+
+a{
+    color: #0400f3;
+    text-decoration: none;
+}
+
+h2{
+    margin-top: 25px;
+}
